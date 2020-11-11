@@ -5,3 +5,9 @@
     color: rgb(235, 235, 235);
     font-size: 2rem;
 }
+
+@media(max-width:300px){
+    .objectives-cont{
+        padding:120px 10px;
+    }
+}
